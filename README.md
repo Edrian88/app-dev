@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-# Alice in Borderland
-## Stranger Things
+**Alice in Borderland**
+*Stranger Things*
 ### Sweet Home
-**Stranger Things**
+

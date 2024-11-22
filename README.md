@@ -1,5 +1,5 @@
 # app-dev
 My first repository
 # Alice in Borderland
-## Stranger things
-### Sweet home
+## Stranger Things
+### Sweet Home
